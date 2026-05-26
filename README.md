@@ -98,8 +98,7 @@ Date filtering works within the range of January 1, 2024 to December 31, 2024.
 
 ## References
 
-- [ASP.NET Core Documentation](https://docs.microsoft.com/en-us/aspnet/core/)
-- [Blazor Documentation](https://docs.microsoft.com/en-us/aspnet/core/blazor/)
-- [Blazor charts and data visualization concepts](https://towardsdev.com/bringing-your-data-to-life-f6e80e68748d)
+- Demo: https://blazor.syncfusion.com/demos/dashboard-layout/overview?theme=fluent2
+- Documentation: https://blazor.syncfusion.com/documentation/dashboard-layout/setting-size-of-cells
 
 
